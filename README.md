@@ -10,6 +10,6 @@ getFactorial() ~ n!
 
 
 ## Connect me via
-[FB](https://www.facebook.com/profile.php?id=100009941145672)
+[Face Book](https://www.facebook.com/profile.php?id=100009941145672)
 
 #### Copy right ©2020 by phuocdb
