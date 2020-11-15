@@ -4,9 +4,11 @@ regarding to most common math methods, e.g.
 getFactorial() ~ n!
 
 ## This repo contains 
+```sh
 * .gitignore file
 * Java source code located in src folder
 * ...
+```
 
 
 ## Connect me via
