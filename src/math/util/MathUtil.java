@@ -32,5 +32,16 @@ public class MathUtil {
         System.out.println("-5!: " + getFactorial(-5));
         System.out.println("Pi: " + PI);
     }
-
+    // muốn kết luận hàm mình ổn hàm mình ngon ta phải nhìn bằng mắt kết quả chạy của hàm
+    // và so sánh  với kì vọng
+    // làm từng trường hợp chạy hàm ~ test case
+    // cách này ổn nhưng mất sức
+    
+    // NÂNG CAO: DÙNG MÀU SẮC, XANH-ĐỎ KẾT LUẬN
+    // TA THẤY XANH, HÀM Ý MỌI CASE MỌI TÌNH HUỐNG ỔN
+    // TA THẤY ĐỎ, CHỈ 1 THẰNG ĐỎ COI NHƯ TOANG
+    // TA XÀI THÊM 1 FRAMEWORK, UNIT TEST NÓI CHUNG
+    // JUNIT, TESTING, NUNIT.... LÀ NHỮNG FRAMEWORK CỤ THỂ ĐỂ GIÚP TEST CÁC HÀM
+    // MỘT CÁCH HIỆU QUẢ
+    // DÙNG NÓ TA TÍCH HỢP VÀO 1 QUY TRÌNH LÀM PHẦN MỀM LỚN HƠN -CI/CT/CD/DEVOPS
 }
