@@ -19,7 +19,8 @@ public class MathUtilityTest {
     @Test // @Test biến hàm này thành public static void main()
     // cách đặt tên hàm sẽ nói lên mục tiêu test hàm, có nhiều quy tắc đặt tên hàm test
     public void getFactorial_Runswell_IfValidArgument() {
-        assertEquals(120, getFactorial(5)); // xanh vì 
+        assertEquals(120, getFactorial(5)); 
+        assertEquals(1, getFactorial(0)); 
     }
 
     // ta cần test xem có ném về ngoại lệ hay không???
