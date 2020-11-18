@@ -27,6 +27,9 @@ public class MathUtil {
 
         System.out.println("6!: " + getFactorial(6));
         System.out.println("0!: " + getFactorial(0));
+        
+        System.out.println("Goodbye and good luck to you all in the FINAL EXAM\n"
+                + "Hope that you all will get the GREEN icon");
 
         // expected: IllegalArgurmentException if -5!
         System.out.println("-5!: " + getFactorial(-5));
